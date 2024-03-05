@@ -14,5 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Top Languages
+![Sam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samgdotson&show_icons=true&theme=github_dark_dimmed)
+
 # Stats
 ![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samgdotson&show_icons=true&theme=github_dark_dimmed)
+
+# Profile Views
+![Sam's Profile Hit](https://komarev.com/ghpvc/?username=samgdotson&color=blue)
